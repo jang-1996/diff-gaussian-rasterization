@@ -1,6 +1,7 @@
-# Differential Gaussian Rasterization
+# Differential Gaussian Rasterization for 3D-GSW
 
-Used as the rasterization engine for the paper "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
+We use the rasterization engine from "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields" and have extended it by obtaining the positions of 3D Gaussians on a 2D image. 
+If you make use of this repository, please kindly cite the original 3D-GS paper.
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
